@@ -2,8 +2,9 @@
 
 https://www.city.minato.tokyo.jp/keihatsusenkyo/kutyousen/documents/0602hp.pdf
 に公開されていた情報を手打ちでcsv化し、色々な分析を試しました<br>
-追記:
+追記:https://www.city.minato.tokyo.jp/senkan/tochijisenkyo/　より2016年、2020年の投票率を取得し、past-elect-data.ipynbにまとめました。
 
+そのため<br>
 https://github.com/reireu/mayor-election-analysis/blob/main/datascience.ipynb<br>
 ↓<br>
 https://github.com/reireu/mayor-election-analysis/blob/main/past-elect-data.ipynb<br>
